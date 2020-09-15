@@ -14,11 +14,11 @@ Code  [File](https://github.com/fantasy-08/Algo-Visualization-/blob/master/A_Sta
 
 About the algorithm  [Wikipedia](https://en.wikipedia.org/wiki/Breadth-first_search)
 
-Code  [File](https://github.com/fantasy-08/Algo-Visualization-/blob/master/BFS%20Algorithm.py)
+Code  [File](https://github.com/fantasy-08/Algo-Visualization-/blob/master/BFS.py)
 
 # DFS [SLOW]
 
 About the algorithm  [Wikipedia](https://en.wikipedia.org/wiki/Depth-first_search)
 
-Code  [File](https://github.com/fantasy-08/Algo-Visualization-/blob/master/DFS%20Algorithm.py)
+Code  [File](https://github.com/fantasy-08/Algo-Visualization-/blob/master/DFS.py)
 

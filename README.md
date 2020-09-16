@@ -22,3 +22,9 @@ About the algorithm  [Wikipedia](https://en.wikipedia.org/wiki/Depth-first_searc
 
 Code  [File](https://github.com/fantasy-08/Algo-Visualization-/blob/master/DFS.py)
 
+# Dijikstra
+
+About the algorithm  [Wikipedia](https://en.wikipedia.org/wiki/Depth-first_search)
+
+Code  [File](https://github.com/fantasy-08/Algo-Visualization-/blob/master/Dijikstra.py)
+

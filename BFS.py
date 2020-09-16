@@ -4,7 +4,7 @@ from queue import PriorityQueue
 
 WIDTH=800
 WIN=pygame.display.set_mode((WIDTH,WIDTH))
-pygame.display.set_caption("A Sart Algorithm")
+pygame.display.set_caption("BFS Algorithm")
 
 RED = (255, 0, 0)
 GREEN = (0, 255, 0)
@@ -123,12 +123,11 @@ def algorithm(draw,grid,start,end):
             reconstruct_path(parent, end, draw)
             end.make_end()
             return True
-
         for neighbor in current.neighbors:
             if neighbor in vis:
                 continue
             temp_distance=distance+1
-            vis[current]=True
+            vis[neighbor]=True
             q.append([neighbor,temp_distance])
             neighbor.make_open()
             parent[neighbor]=current

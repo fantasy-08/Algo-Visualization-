@@ -10,6 +10,8 @@ About the algorithm  [Wikipedia](https://en.wikipedia.org/wiki/A*_search_algorit
 
 Code  [File](https://github.com/fantasy-08/Algo-Visualization-/blob/master/A_Star%20Algorithm.py)
 
+![](Visual/Astar.gif)
+
 # BFS [SLOW]
 
 About the algorithm  [Wikipedia](https://en.wikipedia.org/wiki/Breadth-first_search)

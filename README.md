@@ -28,7 +28,7 @@ Feel free to clone and try on your own computer!
   - Quick Sort
 
 
-### Check Out Graph
+### Check Out Sorting Algorithms
 * [Sort Algorithm Demo](https://fantasy-08.github.io/Algo-Visualization-/sorting/)
 * [Algorithms](https://github.com/fantasy-08/Algo-Visualization-/blob/master/sorting/my_algorithms.py)
 

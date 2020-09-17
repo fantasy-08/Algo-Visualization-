@@ -51,7 +51,7 @@ $ python <file_loc> list
 $ python <file_loc> <Algorithm name>
 ```
 
-For Sorting Algorithm
+For Graph Algorithm
 ```sh
 $ python <file_loc> 
 ```

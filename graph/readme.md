@@ -6,7 +6,7 @@ About the algorithm  [Wikipedia](https://en.wikipedia.org/wiki/A*_search_algorit
 
 Code  [File](https://github.com/fantasy-08/Algo-Visualization-/blob/master/graph/A_Star%20Algorithm.py)
 
-![](./Visual/Astar.gif)
+![](../Visual/Astar.gif)
 
 # BFS [SLOW]
 
@@ -14,7 +14,7 @@ About the algorithm  [Wikipedia](https://en.wikipedia.org/wiki/Breadth-first_sea
 
 Code  [File](https://github.com/fantasy-08/Algo-Visualization-/blob/master/graph/BFS.py)
 
-![](./Visual/BFS.gif)
+![](../Visual/BFS.gif)
 
 # DFS [SLOW]
 
@@ -22,7 +22,7 @@ About the algorithm  [Wikipedia](https://en.wikipedia.org/wiki/Depth-first_searc
 
 Code  [File](https://github.com/fantasy-08/Algo-Visualization-/blob/master/graph/DFS.py)
 
-![](./Visual/DFS.gif)
+![](../Visual/DFS.gif)
 
 # Dijikstra
 
@@ -30,5 +30,5 @@ About the algorithm  [Wikipedia](https://en.wikipedia.org/wiki/Depth-first_searc
 
 Code  [File](https://github.com/fantasy-08/Algo-Visualization-/blob/master/graph/Dijikstra.py)
 
-![](./Visual/Dijikstra.gif)
+![](../Visual/Dijikstra.gif)
 

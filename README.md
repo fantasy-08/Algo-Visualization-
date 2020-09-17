@@ -3,7 +3,7 @@
 Hi!
 Here are programs to help you with better visualization of popular algorithms
 
-![](./graph/readme.md)
+![Graph Algorithm](./graph/readme.md)
 # Astar
 
 About the algorithm  [Wikipedia](https://en.wikipedia.org/wiki/A*_search_algorithm)

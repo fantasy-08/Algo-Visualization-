@@ -2,8 +2,10 @@
 
 Hi!
 Here are programs to help you with better visualization of popular algorithms
-[Graph](https://fantasy-08.github.io/Algo-Visualization-/graph/)
 
+### Pages
+* [Graph](https://fantasy-08.github.io/Algo-Visualization-/graph/)
+* [Sorting](https://fantasy-08.github.io/Algo-Visualization-/sorting/)
 
 # Graph Algorithms
 

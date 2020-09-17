@@ -3,36 +3,47 @@
 Hi!
 Here are programs to help you with better visualization of popular algorithms
 
-![Graph Algorithm](./graph/readme.md)
-# Astar
+# Graph Algorithms
 
-About the algorithm  [Wikipedia](https://en.wikipedia.org/wiki/A*_search_algorithm)
+  - Astar Algorithms
+  - Breadth First Search
+  - Depth First Search
+  - Dijikstra Algorithm 
 
-Code  [File](https://github.com/fantasy-08/Algo-Visualization-/blob/master/A_Star%20Algorithm.py)
 
-![](Visual/Astar.gif)
+You can also:
+  - Discuss with different topics on different Rooms
 
-# BFS [SLOW]
+### Check Out Graph
+* [Graph Algorithm Demo](https://fantasy-08.github.io/Algo-Visualization-/graph/)
+*  [Astar Algorithms](https://github.com/fantasy-08/Algo-Visualization-/blob/master/A_Star%20Algorithm.py)
+*  [Depth First Search](https://github.com/fantasy-08/Algo-Visualization-/blob/master/DFS.py)
+*  [Breadth First Search](https://github.com/fantasy-08/Algo-Visualization-/blob/master/BFS.py)
+*  [Dijikstra Algorithm ](https://github.com/fantasy-08/Algo-Visualization-/blob/master/Dijikstra.py)
 
-About the algorithm  [Wikipedia](https://en.wikipedia.org/wiki/Breadth-first_search)
+### Installation
 
-Code  [File](https://github.com/fantasy-08/Algo-Visualization-/blob/master/BFS.py)
+Algo-Visualization  requires Pythont3 to run
 
-![](Visual/BFS.gif)
+Dependency 
+```sh
+$ pip install pygame
+```
 
-# DFS [SLOW]
+For Sorting Algorithm
+```sh
+$ python <file_loc> list
+$ python <file_loc> <Algorithm name>
+```
 
-About the algorithm  [Wikipedia](https://en.wikipedia.org/wiki/Depth-first_search)
+For Sorting Algorithm
+```sh
+$ python <file_loc> 
+```
+### Todos
 
-Code  [File](https://github.com/fantasy-08/Algo-Visualization-/blob/master/DFS.py)
+ - More Sorting Algorithms (suggestions welcome)
 
-![](Visual/DFS.gif)
+**Free Software, Hell Yeah!**
 
-# Dijikstra
-
-About the algorithm  [Wikipedia](https://en.wikipedia.org/wiki/Depth-first_search)
-
-Code  [File](https://github.com/fantasy-08/Algo-Visualization-/blob/master/Dijikstra.py)
-
-![](Visual/Dijikstra.gif)
 

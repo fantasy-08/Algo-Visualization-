@@ -10,9 +10,7 @@ Here are programs to help you with better visualization of popular algorithms
   - Depth First Search
   - Dijikstra Algorithm 
 
-
-You can also:
-  - Discuss with different topics on different Rooms
+Feel free to clone and try on your own computer!
 
 ### Check Out Graph
 * [Graph Algorithm Demo](https://fantasy-08.github.io/Algo-Visualization-/graph/)
@@ -20,6 +18,19 @@ You can also:
 *  [Depth First Search](https://github.com/fantasy-08/Algo-Visualization-/blob/master/DFS.py)
 *  [Breadth First Search](https://github.com/fantasy-08/Algo-Visualization-/blob/master/BFS.py)
 *  [Dijikstra Algorithm ](https://github.com/fantasy-08/Algo-Visualization-/blob/master/Dijikstra.py)
+
+# Sorting Algorithms
+
+  - Selection Sort
+  - Bubble Sort
+  - Insertion Sort
+  - Merge Sort
+  - Quick Sort
+
+
+### Check Out Graph
+* [Sort Algorithm Demo](https://fantasy-08.github.io/Algo-Visualization-/sorting/)
+* [Algorithms](https://github.com/fantasy-08/Algo-Visualization-/blob/master/sorting/my_algorithms.py)
 
 ### Installation
 

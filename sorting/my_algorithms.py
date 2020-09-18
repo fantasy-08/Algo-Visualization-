@@ -112,3 +112,56 @@ class QuickSort(Algorithm):
             # self.update_display()
     def algorithm(self):
         self.QSort(0,len(self.array)-1)
+
+class RadixSort(Algorithm):
+    def __init__(self):
+        super().__init__("RadixSort")
+
+    def algorithm(self):
+        def counting_sort(self, exp):
+            output = [0] * len(self.array)
+            count = [0] * (10)
+            for i in range(0, len(self.array)):
+                idx = (self.array[i]//exp)
+                count[int((idx)%10)] += 1
+            for i in range(1,10):
+                count[i] += count[i-1]
+            i = len(self.array)-1
+            while i >= 0:
+                idx = (self.array[i]/exp)
+                output[count[int((idx)%10)]-1] = self.array[i]
+                count[int((idx)%10)] -= 1
+                i -= 1
+            i = 0
+            for i in range(len(self.array)):
+                self.array[i] = output[i]
+                self.update_display(self.array[i])
+
+        maximum = max(self.array)
+        exp = 1
+        while maximum // exp > 0:
+            counting_sort(self, exp)
+            exp *= 10
+
+class HeapSort(Algorithm):
+    def __init__(self):
+        super().__init__("HeapSort")
+    def algorithm(self):
+        def heapify(self,n,i):
+            l,r=2*i+1,2*i+2
+            lar=i
+            if(l<n and self.array[l]>self.array[lar]):lar=l
+            if(r<n and self.array[r]>self.array[lar]):lar=r
+            if lar!=i:
+                self.array[lar],self.array[i]=self.array[i],self.array[lar]
+                heapify(self,n,lar)
+        #start the sorting
+        n=len(self.array)
+        for i in range((len(self.array)//2)-1,-1,-1):
+            heapify(self,n,i)
+        for i in range(len(self.array)-1,-1,-1):
+            self.array[0],self.array[i]=self.array[i],self.array[0]
+            heapify(self,i,0)
+            self.update_display(self.array[0],self.array[i])
+
+        

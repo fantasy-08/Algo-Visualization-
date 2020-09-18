@@ -3,35 +3,40 @@
 # Bubble Sort
 
 
-![](../Visual/BubbleSort.mp4)
+![](../Visual/BubbleSort.gif)
 
 # Insertion Sort
 
 
-![](../Visual/InsertionSort.mp4)
+![](../Visual/InsertionSort.gif)
 
 
 # Selection Sort
 
 
-![](../Visual/SelectionSort.mp4)
+![](../Visual/SelectionSort.gif)
 
 
 # Merge Sort
 
 
-![](../Visual/MergeSort.mp4)
+![](../Visual/MergeSort.gif)
 
 
 
 # Quick Sort
 
 
-![](../Visual/QuickSort.mp4)
+![](../Visual/QuickSort.gif)
 
 
 
 # Heap Sort
 
 
-![](../Visual/HeapSort.mp4)
+![](../Visual/HeapSort.gif)
+
+# Redex Sort
+
+
+![](../Visual/RedexSort.gif)
